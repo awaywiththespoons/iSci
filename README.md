@@ -3,6 +3,7 @@
 Design for iSci logo. 
 
 logo.pde is the basic verison
+
 logo_function.pde is a "function" verison, with 3x data sets
 
 to do:
