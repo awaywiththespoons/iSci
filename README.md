@@ -2,9 +2,9 @@
 
 Design for iSci logo. 
 
-logo.pde is the basic verison
+*logo.pde* is the basic verison
 
-logo_function.pde is a "function" verison, with 3x data sets
+*logo_function.pde* is a "function" verison, with 3x data sets
 
 to do:
 * add data sets
